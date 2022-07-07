@@ -27,5 +27,5 @@
 HBuilderX  uniapp
 
 ### 项目地址：
-https://github.com/liuxuanqiang/wechat-weapp-mall
+https://github.com/lyclyc0621/beisi
 
